@@ -1,7 +1,7 @@
 # Hello Visitor :wave:
 I'm Arthur Botelho, be very welcome here!
 
-I hoping to help you with whatever I put here!
+I hoping to help you with whatever I commit!
 
 
 - 🌱 I'm currently learning basics and improving my practice on:
